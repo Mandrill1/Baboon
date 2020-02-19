@@ -1,0 +1,2 @@
+One function of operating systems is User Interface (or UI). It controls what data is shown on screen and how a user inputs commands and data into the computer.
+This mainly affects concepts like multi-tasking, or how many users use the computer. 
