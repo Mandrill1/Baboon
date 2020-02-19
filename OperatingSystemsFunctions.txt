@@ -2,3 +2,4 @@ One function of operating systems is User Interface (or UI). It controls what da
 This mainly affects concepts like multi-tasking, or how many users use the computer. 
 Another function of an operating system is Memory Management. This feature optimizes the use of the computers internal memory. 
 One way in which it uses this is found in Virtual Memory. This acts as an extension of the already existing RAM present in the system.
+A final example of an operating system function is a perfomrance monitor. This feature keeps tabs on devices and data flows throughout the system. Windows has an example of this seen in the app Task Manager.
